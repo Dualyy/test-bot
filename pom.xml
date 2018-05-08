@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>Yuki</groupId>
-    <artifactId>test-bot</artifactId>
+    <artifactId>TestBot</artifactId>
     <version>1.0.0</version>
     <name>test-bot</name>
     <description>test-bot.</description>
