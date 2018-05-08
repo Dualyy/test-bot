@@ -1,3 +1,5 @@
+package yuki.dev;
+
 import org.javacord.DiscordApi;
 import org.javacord.DiscordApiBuilder;
 import org.javacord.util.logging.LoggerUtil;
@@ -33,3 +35,4 @@ public class Main {
 	}
 
 }
+
