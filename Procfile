@@ -1,1 +1,1 @@
-web: java -jar target/TestBot-1.0.0-shaded.jar
+web: java -jar target/TestBot-1.0.0.jar
